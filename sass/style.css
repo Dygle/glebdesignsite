@@ -92,8 +92,8 @@ p {
 
 @font-face {
   font-family: "fontello";
-  src: url("./icons/files/fontello.eot");
-  src: url("./icons/files/fontello.eot"), url("./icons/files/fontello.woff2"), url("./icons/files/fontello.woff"), url("./icons/files/fontello.ttf"), url("./icons/files/fontello.svg");
+  src: url("/icons/files/fontello.eot");
+  src: url("/icons/files/fontello.eot"), url("/icons/files/fontello.woff2"), url("/icons/files/fontello.woff"), url("/icons/files/fontello.ttf"), url("/icons/files/fontello.svg");
   font-weight: normal;
   font-style: normal;
 }
