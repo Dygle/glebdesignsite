@@ -84,19 +84,5 @@
 @media screen and (max-width: 1000px) {
   .mobile {
     padding-bottom: 50px;
-    .left-element > div {
-     @include mobile();
-      [class^="icon"] {
-        position: absolute;
-        left: -160px;
-      }
-    }
-    .right-element > div {
-      @include mobile(); 
-      [class^="icon"] {
-        position: absolute;
-        right: -160px;
-      }
-    }
     }
   }
